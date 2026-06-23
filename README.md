@@ -72,6 +72,11 @@ inherent to parking violations, benchmarked against a seasonal-naive baseline.
 
 ### 2.2 Architecture
 
+![ParkFlow-AI architecture](docs/parkflow_architecture_colored_9tab.png)
+
+<details>
+<summary>Architecture as Mermaid (text source)</summary>
+
 ```mermaid
 flowchart TD
   subgraph Data
@@ -100,6 +105,8 @@ flowchart TD
   P9 --> AR
   AR --> D
 ```
+
+</details>
 
 ### 2.3 Data preprocessing techniques
 
