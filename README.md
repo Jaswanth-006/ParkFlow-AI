@@ -283,7 +283,7 @@ Analytics Center, Junction Risk, Repeat Offenders, Model.
 ```
 ParkFlow-AI/
 ├── config/config.yaml      # every tunable (bins, model, risk bands, PCU weights)
-├── dataset/                # raw BTP CSV (gitignored)
+├── dataset/                # BTP CSV, gzipped & committed (raw .csv stays gitignored)
 ├── src/parkflow/           # pipeline package
 │   ├── preprocessing.py    # clean, parse, UTC->IST, validation filter
 │   ├── spatial.py          # junction / grid zoning
@@ -300,7 +300,7 @@ ParkFlow-AI/
 │   └── pipeline.py         # orchestrates everything -> artifacts/
 ├── app/streamlit_app.py    # 9-tab dashboard (reads artifacts; operator writes to SQLite)
 ├── tests/                  # correctness tests (zero-fill, no leakage, economics, routing, …)
-└── docs/screenshots/       # dashboard screenshots
+└── docs/                   # PRD.md, feat.md, updated.md + screenshots/
 ```
 
 ---
