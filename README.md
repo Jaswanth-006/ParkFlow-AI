@@ -10,6 +10,10 @@ go — turning reactive enforcement into proactive, data-driven deployment.
 
 <p align="center"><em> Flipkart Gridlock Hackathon 2.0 </em></p>
 
+| Live Dashboard | Demo Video | Presentation | Repository |
+|:---:|:---:|:---:|:---:|
+| **[Open the app](https://parkflow-ai.streamlit.app/)** | **[Watch the demo](https://1drv.ms/v/c/03113dcd98313551/IQB3gb0Sm4K4S5cav2UpPi_lAXVKd7f-APOsoTwXyX_sswk?e=8yygyr)** | **[View slides](https://drive.google.com/file/d/1_Q3v-eaTTpikP4tIFlthqRba18mCTPS_/view?usp=sharing)** | **[GitHub](https://github.com/SajeevSenthil/ParkFlow-AI)** |
+
 ---
 
 ## 1. Problem Statement
