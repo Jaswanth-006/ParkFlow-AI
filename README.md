@@ -2,10 +2,7 @@
 <h1 align="center">ParkFlow-AI</h1>
 
 <p align="center">
-<b>Predicting &amp; Mitigating Parking-Induced Traffic Disruptions</b><br/>
-AI-driven parking-enforcement intelligence for the Bengaluru Traffic Police. It forecasts where
-violations will spike, quantifies how much they choke traffic, and tells patrols exactly where to
-go — turning reactive enforcement into proactive, data-driven deployment.
+  <img src="docs/screenshots/parkflow_ps.png" alt="ParkFlow-AI" width="800">
 </p>
 
 <p align="center"><em> Flipkart Gridlock Hackathon 2.0 </em></p>
